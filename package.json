@@ -1,0 +1,24 @@
+{
+    "name": "special-carnival",
+    "version": "1.0.0",
+    "description": "Object-oriented Programming: SVG Logo Maker",
+    "main": "index.js",
+    "scripts": {
+      "test": "jest"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/Reyyahs/special-carnival.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/Reyyahs/special-carnival/issues"
+    },
+    "homepage": "https://github.com/Reyyahs/special-carnival#readme",
+    "dependencies": {
+      "inquirer": "^8.2.4",
+      "jest": "^24.9.0"
+    }
+  }
